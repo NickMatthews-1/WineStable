@@ -11,9 +11,9 @@ Then
 Included in the releases package are the following Linux variations
 
 
-Debian (This will work on any Ubuntu variation)
-Fedora 35
-Fedora 36
++ Debian (This will work on any Ubuntu variation)
++ Fedora 35
++ Fedora 36
 
 
 From there Wine will install without any issues.
