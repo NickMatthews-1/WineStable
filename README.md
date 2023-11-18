@@ -30,6 +30,7 @@ Any file with a numbering after the 2nd letter means the operating system versio
 And finally. The word after the dash means the version of wine that is available for the operating system.
 
 
-### A thanks
+### A thanks!
 
 Thank you!
+
