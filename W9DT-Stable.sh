@@ -9,7 +9,7 @@ sudo mkdir -pm755 /etc/apt/keyrings
 sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 
 #This downloads the WineHQ sources file
-sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/bionic/winehq-bionic.sources
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/trixie/winehq-trixie.sources
 
 #This updates the package information
 sudo apt update
@@ -17,7 +17,7 @@ sudo apt update
 #This upgrades the packages
 sudo apt upgrade
 
-#This installs wine version 7
+#This installs Wine version 9
 sudo apt install --install-recommends winehq-stable
 
-#Subject to GPLv3 License Copyright Nicolas Matthews 2022
+#Subject to GPLv3 License Copyright Nicholas Matthews 2024
