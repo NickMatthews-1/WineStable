@@ -20,4 +20,4 @@ sudo apt upgrade
 #This installs Wine version 9
 sudo apt install --install-recommends winehq-stable
 
-#Subject to GPLv3 License Copyright Nicolas Matthews 2024
+#Subject to GPLv3 License Copyright Nicolas Matthews 2025
