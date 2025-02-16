@@ -12,7 +12,6 @@ Included in the releases package are the following Linux variations
 
 
 + Debian (This will work on any Ubuntu variation)
-+ Ubuntu 18
 + Ubuntu 20
 + Ubuntu 22
 + Ubuntu 22.10
