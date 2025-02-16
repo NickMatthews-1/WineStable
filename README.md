@@ -5,7 +5,7 @@ To make the file executable do the following.
 > chmod +x ./W8U20-Stable.sh and to run 
 
 Then
-> ./W8U20-Stable.sh
+> ./W10U20-Stable.sh
 
 
 Included in the releases package are the following Linux variations
