@@ -17,7 +17,7 @@ sudo apt update
 #This upgrades the packages
 sudo apt upgrade
 
-#This installs Wine version 9
+#This installs Wine version 11
 sudo apt install --install-recommends winehq-stable
 
-#Subject to GPLv3 License Copyright Nicholas Matthews 2025
+#Subject to GPLv3 License Copyright Nicholas Matthews 2026
